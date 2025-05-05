@@ -27,7 +27,7 @@ const HeroSwiper = () => {
                     <h1 className='text-light'>Explore Our Versatile Carryall Bag Collection</h1>
                     <p className='text-light'>A two-piece suit is the most basic type of suit, consisting of a suit jacket and matching trousers. The two-piece is the type of suit you might wear to a job interview. Our carryall is the ultimate companion for those all their essentials and more.</p>
                     {/* <button className='btn btn-warning'>All Products</button> */}
-                    <AllProduct title={"All Products"}/>
+                    <AllProduct  title={"All Products"}/>
                 </div>
             </SwiperSlide>
             <SwiperSlide>

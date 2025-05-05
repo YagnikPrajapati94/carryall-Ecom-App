@@ -11,7 +11,7 @@ const UserLayout = ({children}) => {
       <main>
         {children}
       </main>
-      <footer className='sticky-bottom'>
+      <footer className=''>
         <Footer/>
       </footer>
     </>

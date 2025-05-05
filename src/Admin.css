@@ -65,3 +65,10 @@ Link{
     background-color: #1d2d4294 !important;
     background-blend-mode: darken;
 }
+thead{
+    background-color: #1D2D42 !important;
+}
+.admin-table::-webkit-scrollbar{
+    width: 0 !important;
+    height: 0 !important;
+}
