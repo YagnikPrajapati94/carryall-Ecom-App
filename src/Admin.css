@@ -26,6 +26,12 @@ body{
 .bg-card{
     background-color: #121E2D !important;
 }
+.admin-modal input{
+    background-color: #121E2D !important;
+    border: 1px solid #1D2D42 !important;
+    color:  #ADB5BD !important;
+}
+
 .login-ui{
     height: 100vh !important;
 }
@@ -71,4 +77,16 @@ thead{
 .admin-table::-webkit-scrollbar{
     width: 0 !important;
     height: 0 !important;
+}
+.modal-dialog{
+    transition: all 0.8s ease-in-out !important;
+}
+.modal-dialog .modal-body::-webkit-scrollbar{
+    width: 8px !important;
+    background-color: #1D2D42 !important;
+    border-radius: 15px !important;
+}
+.modal-dialog .modal-body::-webkit-scrollbar-thumb{
+    background-color: #F56E50 !important;
+    border-radius: 15px !important;
 }

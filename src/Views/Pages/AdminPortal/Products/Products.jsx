@@ -15,7 +15,7 @@ const Products = () => {
                             </div>
 
                             <div className="col-8 text-end">
-                                <button className='btn btn btn-outline-info ' data-bs-toggle="modal" data-bs-target="#staticBackdrop"><span className='d-md-inline-block d-none'>Add New Product</span><i class="fa-solid d-md-none d-block  ms-md-2 ms-0 fa-plus"></i></button>
+                                <button className='btn btn btn-outline-info shadow-none  ' data-bs-toggle="modal" data-bs-target="#staticBackdrop"><span className='d-md-inline-block d-none'>Add New Product</span><i class="fa-solid d-md-none d-block  ms-md-2 ms-0 fa-plus"></i></button>
                             </div>
                         </div>
                         <div className="row mt-3 justify-content-center ">
@@ -28,6 +28,7 @@ const Products = () => {
                                             <th>Image</th>
                                             <th>Brand</th>
                                             <th>Product</th>
+                                            <th>Category</th>
                                             <th>Description</th>
                                             <th>Color</th>
                                             <th>Size</th>
@@ -49,6 +50,7 @@ const Products = () => {
                                             </td>
                                             <td>Brand</td>
                                             <td>Product</td>
+                                            <td>Category</td>
                                             <td>Description</td>
                                             <td>Color</td>
                                             <td>Size</td>
