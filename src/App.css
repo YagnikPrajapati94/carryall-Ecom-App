@@ -1,0 +1,126 @@
+body{
+    font-family: Kanit, sans-serif;
+    background-color: white !important;
+}
+.navbar-list .nav-link{
+    color: wheat !important;
+    text-transform: uppercase !important;
+    font-weight: 700 !important;
+    font-size: 13.5px;
+}
+.offcanvas{
+    transition: all 0.4s ease-in-out !important;
+}
+.menu-profile{
+    top: 51px !important;
+}
+.offcanvas-menu{
+   padding: 22.4px 20px !important;
+}
+
+.bg-hero-home{
+    /* height: 90vh !important; */
+    background-image: url("https://carryall-workdo.myshopify.com/cdn/shop/files/home-banner.png?v=1674790898");
+    background-position: center;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.418) !important;
+    background-blend-mode: darken;
+}
+.hero-content{
+    height: 90vh !important;
+}
+.btn-product{
+    background-color: #BBA77F !important;
+    color: white !important;
+    border: 1px solid #BBA77F !important;
+    transition: all 0.3s ease-in-out !important;
+}
+.btn-product:hover{
+    background-color: transparent !important;
+    border: 1px solid #BBA77F !important;
+    color: #BBA77F !important;
+}
+.back-home{
+    padding: 8px 10px !important;
+    font-size: 12px !important;
+    border: 1px solid white !important;
+}
+.back:hover .back-home{
+    border: 1px solid wheat !important;
+    color: wheat !important;
+}
+.back:hover{
+    color: wheat !important;
+}
+.contact-form input,textarea{
+    border: 1px solid rgb(0, 0, 0) !important;
+    box-shadow: none !important;
+    border-radius: 8px !important;
+    padding: 10px 15px;
+}
+.contact-form input:focus{
+    border: 1px solid #BBA77F !important;
+}
+.contact-form textarea:focus{
+    border: 1px solid #BBA77F !important;
+}
+.bg-section2{
+    background-image: url("https://carryall-workdo.myshopify.com/cdn/shop/files/more-pro-banner.png?v=1674793232");
+    background-position: center;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.437);
+    background-blend-mode: darken;
+}
+.card-div{
+    transition: all 0.5s ease-in-out;
+    opacity: 0;
+}
+.card-main:hover .card-div{
+    opacity: 1;
+   
+}
+.card-main{
+    cursor: pointer !important;
+}
+.logo-effect:hover{
+    color: #BBA77F !important;
+}
+.logo-effect{
+    transition: all 0.3s ease-in-out !important;
+}
+.filter-header{
+    height: 10vh !important;
+}
+.filter-select select{
+    border: 1px solid black !important;
+}
+.product-card{
+    border: 1px solid #BBA77F !important;
+}
+.product-card img{
+    height: 25vh !important;
+}
+.addtocart{
+    background-color: #BBA77F !important;
+    border: 1px solid #BBA77F !important;
+    color: white !important;
+    font-size: 10px !important;
+    padding: 8px 0px !important;
+    font-weight: 700 !important;
+    letter-spacing: 2px;
+    transition: all 0.4s ease-in-out !important;
+}
+.addtocart:hover{
+    background-color: transparent !important;
+    color: #BBA77F !important;
+}
+#collapseRow{
+    transition: all 0.8s ease-in-out !important;
+}
+
+
+
+  
+  
+
+

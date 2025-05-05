@@ -1,0 +1,67 @@
+.bg-main-color{
+    background-color: #121E2D !important;
+
+}
+body{
+    background-color: #0E1824 !important;
+}
+.bg-off-body{
+    background-color: #0E1824 !important;
+}
+.nav-color{
+    color: white !important;
+}
+.logout{
+    color: red !important;
+}
+.color-one{
+    color: #ADB5BD !important;
+}
+.color-two{
+    color: #82888E !important;
+}
+.bg-icon{
+    background-color: #1D2D42 !important;
+}
+.bg-card{
+    background-color: #121E2D !important;
+}
+.login-ui{
+    height: 100vh !important;
+}
+.myprofile{
+    width: 70px !important;
+    height: auto !important;
+}
+.myprofile-2{
+    width: 30px !important;
+}
+.btn-admin{
+    background-color: #F56E50 !important;
+    border: 1px solid #F56E50 !important;
+    color: white !important;
+    transition: all 0.4s ease-in-out !important;
+}
+.btn-admin:hover{
+    background-color: transparent !important;
+    color: #F56E50 !important;
+}
+.admin-profile input::placeholder{
+    color: #ADB5BD !important;
+}
+.admin-profile input{
+    border: 1px solid #82888e7b !important;
+}
+.admin-profile input:focus{
+    border: 1px solid #F56E50 !important;
+}
+Link{
+    transition: all 0.4s ease-in-out !important;
+}
+.admin-login-bg{
+    background-image: url("https://samply.react-h-light.pichforest.com/static/media/bg-auth.c95419e0b1f73298e6c5.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color: #1d2d4294 !important;
+    background-blend-mode: darken;
+}
